@@ -1,0 +1,7 @@
+streamlit>=1.36
+pydantic>=2.5
+pymupdf>=1.24
+python-dotenv>=1.0
+requests>=2.31
+pandas>=2.0
+pytest>=8.0
